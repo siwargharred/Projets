@@ -13,6 +13,7 @@
 
 
 Route::get('/salut/{name}','WelcomeController@index');
+Route::get('/salut/','WelcomeController@index');
 
 Route::get('/contact/','ContactController@newContact');
 Route::get('/listContacts/','ContactController@listContacts');
