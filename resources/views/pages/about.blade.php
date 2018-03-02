@@ -6,7 +6,7 @@
 @stop
 
   @section('content')
-   <h1>ABOUT</h1>
+   <h1>ABOUT TODAY</h1>
     @stop
 
 
