@@ -7,11 +7,12 @@
 
   @section('content')
    <h1>ABOUT TODAY</h1>
+   <h1>BONJOUR</h1>
     @stop
 
 
 @section('foot')
-    <h1>About</h1>
+    <h1>About today</h1>
 @stop
 
 @section('scripts.footer')
